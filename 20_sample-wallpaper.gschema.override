@@ -1,0 +1,10 @@
+
+[org.gnome.desktop.background]
+picture-uri = 'file:///usr/share/backgrounds/sample-wallpaper.png'
+
+[org.gnome.desktop.screensaver]
+picture-uri = 'file:///usr/share/backgrounds/sample-wallpaper.png'
+
+[com.canonical.unity-greeter]
+background = '/usr/share/backgrounds/sample-wallpaper.png'
+
