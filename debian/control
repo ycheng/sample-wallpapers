@@ -1,0 +1,14 @@
+Source: sample-wallpapers
+Section: unknown
+Priority: optional
+Maintainer: Yuan-Chen Cheng <yc.cheng@canonical.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: http://linux.org.tw
+#Vcs-Git: https://anonscm.debian.org/collab-maint/sample-wallpapers.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/sample-wallpapers.git
+
+Package: sample-wallpapers
+Architecture: any
+Depends: ${misc:Depends}
+Description: Sample Wall Papers Debian Package.
